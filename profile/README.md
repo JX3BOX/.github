@@ -22,6 +22,6 @@
 + uc：合并了dashboard个人中心，publish发布中心，account账号中心，vip会员中心，author个人主页(贺卡/证书等）
 + os：后台
 + miniprogram：小程序
-+ jx3：剑网3.com（后续要合并到index）
-+ app：（未来的手机客户端，待定）
++ mobile：手机客户端
 + jba：（未来的电脑客户端，待定）
++ jx3：剑网3.com（后续要合并到index）
